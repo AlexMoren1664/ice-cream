@@ -276,7 +276,7 @@
 
 .milkshakes {
   min-height: 800px;
-  background-image: url('/images/milkshakes.jpg');
+  background-image: url('../images/milkshakes.jpg')
 }
 
 .milkshakes__info {
